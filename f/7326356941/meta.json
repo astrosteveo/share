@@ -1,0 +1,20 @@
+{
+  "chestSubject": "a wooden treasure chest with iron fittings and a padlock on the front, lid closed",
+  "chestSeeds": [
+    33115620845499,
+    233424314013208,
+    167567385597815,
+    191615483476990,
+    82652767250927,
+    277072206673620
+  ],
+  "chestSeconds": [
+    6.3,
+    2.8,
+    3.1,
+    2.9,
+    2.9,
+    2.9
+  ],
+  "workflow": "t2i_cutout_zimage"
+}
